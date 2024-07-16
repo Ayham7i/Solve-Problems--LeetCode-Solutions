@@ -1,5 +1,7 @@
 # 14. Longest Common Prefix
 
+### By Ayham Al-Akhali
+
 **Easy**
 
 ---
