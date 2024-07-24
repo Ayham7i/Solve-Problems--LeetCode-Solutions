@@ -1,5 +1,7 @@
 # 1. Two Sum
 
+## By Ayham Al-Akhli
+
 **Easy**
 
 ---
