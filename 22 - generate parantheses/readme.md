@@ -1,3 +1,5 @@
+# Ayham Al-Akhali
+
 # 22. Generate Parentheses
 
 **Medium**
